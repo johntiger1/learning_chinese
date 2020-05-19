@@ -1,3 +1,8 @@
+# additional points
+1. 快  （bucks/colloquial term for yuan）
+2. 钱 （money）
+3. 元  (the Chinese yuan)
+
 # learning_chinese
 Some resources for learning chinese
 
